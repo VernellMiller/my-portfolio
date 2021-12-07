@@ -1,7 +1,12 @@
 * {
     box-sizing: border-box;
 }
-
 body {
     background-color: #EAE7DC;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mepic {
+    width: 800px
 }
